@@ -348,7 +348,7 @@ a:hover{
 }
 .author{
     text-align: center;
-    margin: 20px 0 10vh 0;
+    margin: 20px 0 10vh 0
 }
 @media (max-width:1570px){
     .quote h1{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-01-27_20-21-30-013.jpg?alt=media&token=270a2d31-caea-4939-ab44-f07e19923b54);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222204.jpg?alt=media&token=c900e19e-6e48-487d-a130-69f69f8eeb37);
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -418,7 +418,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-01-27_20-21-30-013.jpg?alt=media&token=270a2d31-caea-4939-ab44-f07e19923b54);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222300.jpg?alt=media&token=9b6f6a51-eeb9-42ca-81eb-a08e693c3b1a);
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
