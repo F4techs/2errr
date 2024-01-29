@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20231218_192143_407.jpg?alt=media&token=6d6e0cc3-585e-4843-a8ad-224b250b84e4);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222300.jpg?alt=media&token=9b6f6a51-eeb9-42ca-81eb-a08e693c3b1a);
     background-size: cover;
     background-position: center;
 }
@@ -225,7 +225,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-01-27_14-36-12-908.jpg?alt=media&token=edfeab33-0b01-4dee-bb4d-d57fd3064396);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222129.jpg?alt=media&token=df4fb2c9-4a9a-4a37-b25a-86c836c33b1a);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20231218_192143_407.jpg?alt=media&token=6d6e0cc3-585e-4843-a8ad-224b250b84e4);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222243.jpg?alt=media&token=d6f50972-2166-43d5-8719-6fe1ca00d7cc);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-01-27_14-36-12-908.jpg?alt=media&token=edfeab33-0b01-4dee-bb4d-d57fd3064396);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222229.jpg?alt=media&token=d6659ece-73db-4d19-b8bb-9cc34e5419e6);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20231218_192143_407.jpg?alt=media&token=6d6e0cc3-585e-4843-a8ad-224b250b84e4);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222204.jpg?alt=media&token=c900e19e-6e48-487d-a130-69f69f8eeb37);
 }
 @media (max-width:1000px){
     .gallery{
