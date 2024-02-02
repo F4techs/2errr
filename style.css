@@ -310,11 +310,11 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0054.jpg?alt=media&token=27c8f0dd-47ad-4580-b61a-7d68c99e02af);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-02-02_21-46-44-310.jpg?alt=media&token=297fcb7e-d360-44aa-b3b9-315016dcf176);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0055.jpg?alt=media&token=21a564f8-94a1-4837-93f6-912328ef759c);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/Picsart_24-02-02_21-49-27-025.jpg?alt=media&token=1314e6d4-5c5f-4b4b-9c69-65ddc8bd9957);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
