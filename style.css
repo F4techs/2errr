@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222300.jpg?alt=media&token=9b6f6a51-eeb9-42ca-81eb-a08e693c3b1a);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0025.jpg?alt=media&token=4cdafc7f-0a92-4bdf-9c6a-67ec28616be5);
     background-size: cover;
     background-position: center;
 }
@@ -225,7 +225,7 @@ a:hover{
     margin: 8vh 0;
 }
 .timeline-img{
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222129.jpg?alt=media&token=df4fb2c9-4a9a-4a37-b25a-86c836c33b1a);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0026.jpg?alt=media&token=9ab638fa-f54e-46db-a9a2-86a71d8fbd22);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -310,15 +310,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222243.jpg?alt=media&token=d6f50972-2166-43d5-8719-6fe1ca00d7cc);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0036.jpg?alt=media&token=42909ac5-0a61-41e9-b0cd-6e4f52787e68);
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222229.jpg?alt=media&token=d6659ece-73db-4d19-b8bb-9cc34e5419e6);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0021.jpg?alt=media&token=09d7af72-ba86-4a9b-8078-b6b165643235);
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222204.jpg?alt=media&token=c900e19e-6e48-487d-a130-69f69f8eeb37);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0002.jpg?alt=media&token=c21e0047-286b-4d4c-b581-004ee7b60c9a);
 }
 @media (max-width:1000px){
     .gallery{
@@ -362,7 +362,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG_20240129_222204.jpg?alt=media&token=c900e19e-6e48-487d-a130-69f69f8eeb37);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/fxsil-d3916.appspot.com/o/IMG-20240202-WA0035.jpg?alt=media&token=a1f9e8ac-829e-4673-bd0b-5cd4062b034a);
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
